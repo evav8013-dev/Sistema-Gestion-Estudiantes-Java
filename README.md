@@ -30,6 +30,6 @@ java -cp src Main
 Una calificación de 70 a 100 se considera aprobatoria. La calificación debe estar entre 0 y 100.
 
 ## Autor
-[Escribe aquí tu nombre]
+[EVA VENEGAS]
 # Sistema-Gestion-Estudiantes-Java
 El presente proyecto consiste en desarrollar una aplicación sencilla en Java para gestionar información básica de estudiantes. El ejercicio permite poner en práctica los fundamentos de la Programación Orientada a Objetos (POO), mediante la definición de una clase, sus atributos, un constructor, la creación de objetos y la ejecución de métodos
